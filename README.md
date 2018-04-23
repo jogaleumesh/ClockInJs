@@ -1,1 +1,2 @@
-# ClockInJs
+# JavaScript Clock
+
